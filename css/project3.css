@@ -1,3 +1,7 @@
+*{
+    overflow: hidden;
+}
+
 .navbar{
     height: 10vh;
 }
